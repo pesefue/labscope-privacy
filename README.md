@@ -1,6 +1,6 @@
-# Lab Scope – Privacy Policy
+# Tinkertek Lab – Privacy Policy
 
-Public privacy policy of the iOS/iPadOS app **Lab Scope** by Peter Seitz.
+Public privacy policy of the iOS/iPadOS/macOS app **Tinkertek Lab** (formerly Lab Scope) by Peter Seitz.
 
 - English: https://pesefue.github.io/labscope-privacy/en.html
 - Deutsch: https://pesefue.github.io/labscope-privacy/de.html
